@@ -32,7 +32,7 @@ values (1, 10, 250),
 show transaction isolation level;
 ```
 
-![Screenshot 2024-10-11 at 18.34.10.png](..%2F..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fb6%2Fth0bz2317cx_3r9688j88wvw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_7rmJJv%2FScreenshot%202024-10-11%20at%2018.34.10.png)
+![Screenshot 2024-10-14 at 13.23.33.png](Screenshot%202024-10-14%20at%2013.23.33.png)
 
 Одновременно в двух консолях начинаем транзакцию.
 В первой вставляем запись
